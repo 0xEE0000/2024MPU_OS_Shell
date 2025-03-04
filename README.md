@@ -1,7 +1,3 @@
-Group Members:
-1.鲍睿 BAO RUI P2321323
-2.谢松琦 XIE SONGQI p2321396
-3.程心远 CHENG XINYUAN p2321089
 # About the shell
 
 ## Entrance
