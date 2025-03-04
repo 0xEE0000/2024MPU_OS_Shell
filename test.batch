@@ -1,0 +1,8 @@
+mkdir test_dir; cd test_dir; echo "Hello, World!" > file1.txt; echo "This is a test file." > file2.txt
+pwd
+ls; cat file1.txt; cat file2.txt
+cp file1.txt file1_copy.txt; cp file2.txt file2_copy.txt
+ls
+cd ..;
+pwd
+quit
