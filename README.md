@@ -1,5 +1,5 @@
 # About the shell
-
+This the group project of 2024MPU Operating System, was tought by Dennis Wong.
 ## Entrance
 
 For the entrance, we start from `Enter command`. In here, users have 1 types of command:
